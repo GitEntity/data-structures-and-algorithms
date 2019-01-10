@@ -1,6 +1,8 @@
 # data structures and algorithms
 
-### View branches for course work
+**View branches for course work**
+
+###### Course Description
 
 This course provides the students with a solid foundation in data structures and their associated algorithms (e.g.
 traversal, sorting, searching, element addition and removal) both from a theoretical, as well as practical
