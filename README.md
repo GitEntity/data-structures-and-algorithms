@@ -1,3 +1,3 @@
 # data structures and algorithms
 
-###### Assignment 1: Algorithm Analysis
+### Assignment 1: Algorithm Analysis
